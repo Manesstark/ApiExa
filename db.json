@@ -1,0 +1,8 @@
+{
+  "Product": [
+    {"id": 1, "name": "Tacos", "unitsInStock": 40, "unitPrice": 20},
+    {"id": 2, "name": "Tamales", "unitsInStock":80, "unitPrice": 15},
+    {"id": 3, "name": "Pastel", "unitsInStock": 10, "unitPrice": 200}
+  ]
+
+}
